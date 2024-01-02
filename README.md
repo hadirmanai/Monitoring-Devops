@@ -16,10 +16,6 @@ voila la capture pour  vérifiée que prometheus récupère bien les métriques 
 
 Et derniérement étape j'ai installer et configurer Grafana pour visualiser les requêtes :
 
-Connection a grafana :   
-
-![text](5.png)
-
 L'ajout de DataSource : 
 
 ![text](6.png)
